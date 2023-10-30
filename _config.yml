@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
+title: Juan Perez Molina # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Analysis | Business intelligence | SQL | Python | Power Bi 
   <br><br>
-  Second description 
+  Are you looking for a person passionate about generating knowledge from data and proposing solutions to business problems?
+  I am the professional you are looking for, with a certificate in Data Science, great ability to quickly understand business concepts and work as a team under pressure situations.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/juanjoseperezmolina/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
