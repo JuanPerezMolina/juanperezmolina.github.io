@@ -1,51 +1,25 @@
-## Developer Portfolio Landing Page Template
+# Demo
 
-### Introduction
+If you want to see the demo, you can reach the demo by [clicking here](https://ardacarofficial.github.io/links-website/ "ardacarofficial.github.io/links-website/") link.
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+![Demo 1](https://ardacarofficial.github.io/links-website/img/demo-img.png)
 
-<img src="images/demo.gif?raw=true"/>
 
-### Installation
+# Install
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+First, clone the file with the following command. Then apply the [component](https://github.com/ardacarofficial/links-website/wiki/Component-Settings "component") and [design](https://github.com/ardacarofficial/links-website/wiki/Design-Settings "design") settings. You can check the [wiki](https://github.com/ardacarofficial/links-website/wiki "wiki") for help.
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```sh
+git clone https://github.com/ardacarofficial/links-website.git
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+You can then upload your files to any hosting.
 
-### Roadmap
+# Note
 
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
+Contributions are what make the open source community a great place to learn, inspire and create. Your contributions are greatly appreciated.
 
-### References
+If you have a suggestion to make this better, please fork the repository and create a pull request. You can also open an issue with the "Development" tag. If you want, you can also share it in the [discussions](https://github.com/ardacarofficial/links-website/discussions/ "discussions") section. Don't forget to give stars to the project!
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+# License
+Distributed under the MIT license. See [LICENSE](https://github.com/ardacarofficial/links-website/blob/main/LICENSE "LICENSE") file for more information.
